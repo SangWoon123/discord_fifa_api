@@ -1,6 +1,6 @@
 import requests
-import discord.cogs.match_type as match_type 
-import discord.cogs.division as division
+import match_type 
+import division
 
 
 
