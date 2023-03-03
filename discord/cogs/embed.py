@@ -11,8 +11,6 @@ import division
 class Embed(commands.Cog):
     def __init__(self, client):
         self.client = client
-
-        
     
     @commands.Cog.listener()
     async def on_ready(self):
@@ -50,13 +48,6 @@ class Embed(commands.Cog):
         official_match_division=match_types[0]['division']
 
 
-        
-        # 링크 포함 헤더
-        embed.set_author(
-        name="못참겠다 피파하러가즈아!", 
-        url="https://fifaonline4.nexon.com/main/index", 
-        icon_url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FOIP.PfSFXftUSnUWIdhFPImbhwAAAA%3Fpid%3DImgDet%26rs%3D1&blockId=f6f97693-8a2b-47b9-8188-e8099c6d2965&width=256")
-
         # 본문
         embed=discord.Embed(
             title="당신의 최고티어는?",
@@ -66,6 +57,13 @@ class Embed(commands.Cog):
         embed.add_field(name="모드: ",value=match_dict.get(official_match_type),inline=True)
         embed.add_field(name="최고티어: ",value=division_dict.get(official_match_division),inline=True)
         embed.add_field(name="달성날짜: ",value=official_match_achievement_date,inline=True)
+
+         # 링크 포함 헤더
+        embed.set_author(
+        name="못참겠다 피파하러가즈아!", 
+        url="https://fifaonline4.nexon.com/main/index", 
+        icon_url="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FOIP.PfSFXftUSnUWIdhFPImbhwAAAA%3Fpid%3DImgDet%26rs%3D1&blockId=f6f97693-8a2b-47b9-8188-e8099c6d2965&width=256")
+
         
         # 이미지
         embed.set_image(url="https://upload2.inven.co.kr/upload/2019/12/19/bbs/i16179180516.png")
