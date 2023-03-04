@@ -9,7 +9,7 @@
 </br> 2023-03-03 - 유저정보검색기 명령어: !최고티어 nickname
 </br> 2023-03-04 - 유저거래검색기 명령어: !거래 nickname buy or sell
 
-##모듈정보
+## 모듈정보
 
 division 모듈 반환정보
 -타입: dict
