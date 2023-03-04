@@ -1,9 +1,6 @@
 # discord_fifa_api
 ## 소개
 디스코드 챗봇 + fifa4 online 공식 api 활용: 유저최고티어 정보 검색기
-</br> 
-</br> 
-
 <img width="1043" alt="스크린샷 2023-03-04 오후 1 16 45" src="https://user-images.githubusercontent.com/100204926/222875255-a5a431cf-8d97-4f43-bfd8-2d323a88fe99.png">피파온라인 공식 api 유저정보 부분을 활용 
 
 
@@ -12,21 +9,21 @@
 
 ## 모듈정보
 
-division 모듈 반환정보
--타입: dict
--정보: 경기모드
+division 모듈 반환정보</br>
+-타입: dict</br>
+-정보: 경기모드</br>
 
-match_type 모듈 반환정보
--타입: dict
--정보: 티어정보
+match_type 모듈 반환정보</br>
+-타입: dict</br>
+-정보: 티어정보</br>
 
-get_accessid 모듈 반환정보
--타입: str
--정보: 유저고유id
+get_accessid 모듈 반환정보</br>
+-타입: str</br>
+-정보: 유저고유id</br>
 
-spid 모듈 반환정보
--타입: dict
--정보: 선수 고유 id 와 선수 이름
+spid 모듈 반환정보</br>
+-타입: dict</br>
+-정보: 선수 고유 id 와 선수 이름</br>
 
 ## 사용법
 피파 개발자센터에서 발급받은 키를 "fifaapi.txt" 파일과
