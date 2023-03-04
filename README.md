@@ -8,7 +8,7 @@
 <img width="1043" alt="스크린샷 2023-03-04 오후 1 16 45" src="https://user-images.githubusercontent.com/100204926/222875255-a5a431cf-8d97-4f43-bfd8-2d323a88fe99.png">피파온라인 공식 api 유저정보 부분을 활용 
 
 ## 기능정보
-유저의 최고티어
+유저의 최고티어</br>
 유저의 거래내역 최근 10개
 
 
