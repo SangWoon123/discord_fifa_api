@@ -17,6 +17,14 @@ match_type 모듈 반환정보
 -타입: dict
 -정보: 티어정보
 
+get_accessid 모듈 반환정보
+-타입: str
+-정보: 유저고유id
+
+spid 모듈 반환정보
+-타입: dict
+-정보: 선수 고유 id 와 선수 이름
+
 사용법: 피파 개발자센터에서 발급받은 키를 "fifaapi.txt" 파일과
       </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;디스코드 개발자센터에사 발급받은 키를 "token.txt" 파일에 저장후 
       </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"main.py" 실행
