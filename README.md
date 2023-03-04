@@ -4,8 +4,8 @@
 <img width="1043" alt="스크린샷 2023-03-04 오후 1 16 45" src="https://user-images.githubusercontent.com/100204926/222875255-a5a431cf-8d97-4f43-bfd8-2d323a88fe99.png">피파온라인 공식 api 유저정보 부분을 활용 
 
 
-</br> 2023-03-03 - 유저정보검색기 명령어: !최고티어 nickname
-</br> 2023-03-04 - 유저거래검색기 명령어: !거래 nickname buy or sell
+</br> 2023-03-03 </br>챗봇 명령어: !최고티어 (nickname)
+</br> 2023-03-04 </br>챗봇 명령어: !거래 (nickname) (buy or sell)
 
 ## 모듈정보
 
