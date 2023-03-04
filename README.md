@@ -1,4 +1,4 @@
-# discord_fifa_api
+# discord_fifaonline_api
 
 </br> 2023-03-03 </br>챗봇 명령어: !최고티어 (nickname)
 </br> 2023-03-04 </br>챗봇 명령어: !거래 (nickname) (buy or sell)
