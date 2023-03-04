@@ -4,8 +4,9 @@ import division
 
 
 
+
 # api키
-with open('api.txt','r') as f:
+with open('fifaapi.txt','r') as f:
     api_key=f.read()
 
 user_info_url="https://api.nexon.co.kr/fifaonline4/v1.0/users"
@@ -21,6 +22,7 @@ params={'nickname':f'{nickname}'}
 # 고유식별자 아이디
 resp=requests.get(user_info_url,params=params,headers=headers)
 access_id=resp.json().get('accessId')
+print(access_id)
 
 # 디비전
 division_dict=division.get_division_type_dict(headers)

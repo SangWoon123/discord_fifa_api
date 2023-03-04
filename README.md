@@ -1,6 +1,9 @@
 # discord_fifa_api
 디스코드 챗봇 + fifa 공식 api 활용: 유저최고티어 정보 검색기
 
+</br> 2023-03-03 - 유저정보검색기 명령어: !최고티어 nickname
+</br> 2023-03-04 - 유저거래검색기 명령어: !거래 nickname buy or sell
+
 division 모듈 반환정보
 -타입: dict
 -정보: 경기모드
@@ -19,4 +22,6 @@ match_type 모듈 반환정보
 </br> 다음과 같은 실행결과가 나오면 embed.py가 정상적으로 실행되었다는 의미
 </br> <img width="497" alt="스크린샷 2023-03-04 오전 2 26 02" src="https://user-images.githubusercontent.com/100204926/222787259-37a6abc7-5102-4ab6-85da-be1ab59771ed.png">
 </br> 디스코드 창에서 접두사 !을 넣어 "!최고티어" + 피파유저네임 입력하면 정상적으로 동작한다
+</br>
+<img width="327" alt="스크린샷 2023-03-04 오후 1 11 42" src="https://user-images.githubusercontent.com/100204926/222875128-a1f42226-e872-443f-a105-7ac47bc3451e.png">
 
