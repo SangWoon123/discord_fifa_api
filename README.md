@@ -1,7 +1,7 @@
 # discord_fifa_api
 
 ## 사용 기술
- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/><img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
 
 
 </br> 2023-03-03 챗봇 명령어: !최고티어 (nickname)
