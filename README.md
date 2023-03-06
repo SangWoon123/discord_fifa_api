@@ -59,10 +59,10 @@ spid 모듈 반환정보</br>
 ## AWS 배포
 과정:
 
-<img width="1361" alt="스크린샷 2023-03-06 오후 7 36 12" src="https://user-images.githubusercontent.com/100204926/223090338-26c510b2-7102-4442-8797-4a853f386f1a.png">
+<img width="634" alt="스크린샷 2023-03-06 오후 7 52 21" src="https://user-images.githubusercontent.com/100204926/223090507-ce55b4ff-d25b-46c4-b79b-142dc5ac4eea.png">
 
-
-
+</br> !주의!: EC2 Amazon linux 사용시 os와 호환성 문제 </br>
+도커 빌드시 "--platform linux/amd64" 사용
 
 <img width="1361" alt="스크린샷 2023-03-06 오후 7 36 12" src="https://user-images.githubusercontent.com/100204926/223086685-0285da77-f9d0-49fb-ad8d-8d8c2f9769c9.png">
 
