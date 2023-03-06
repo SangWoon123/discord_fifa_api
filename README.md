@@ -2,6 +2,7 @@
 
 </br> 2023-03-03 </br>챗봇 명령어: !최고티어 (nickname)
 </br> 2023-03-04 </br>챗봇 명령어: !거래 (nickname) (buy or sell)
+</br> 2023-03-06 </br> 도커 실행파일 추가
 
 ## 소개
 디스코드 챗봇 + fifa4 online 공식 api 활용: 유저 정보 검색기
@@ -45,6 +46,11 @@ spid 모듈 반환정보</br>
 </br><img width="300" alt="스크린샷 2023-03-04 오후 1 11 42" src="https://user-images.githubusercontent.com/100204926/222875128-a1f42226-e872-443f-a105-7ac47bc3451e.png"> <img width="497" alt="222787259-37a6abc7-5102-4ab6-85da-be1ab59771ed" src="https://user-images.githubusercontent.com/100204926/223003642-3552ce52-ff58-451e-a985-ced1b3745ddd.png">
 </br> 디스코드 창에서 접두사 !을 넣어 "!최고티어" + 피파유저네임 입력하면 정상적으로 동작한다
 
+
+## 도커 사용
+폴더로 이동 </br>
+도커 이미지화: docker build -t 이미지이름 .(현재파일)</br>
+도커 실행 : docker run -it 이미지이름
 
 ### 부족한점
 거래내용에서 썸네일로 선수이미지 제공 기능을 구현하고싶었으나 실력부족으로 코드가 복잡해져서 포기
