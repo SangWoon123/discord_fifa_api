@@ -9,8 +9,9 @@
 </br> 2023-03-06 도커 사용 이해와 도커 실행 파일 추가 / AWS 배포
 
 ## 소개
-디스코드 챗봇 + fifa4 online 공식 api 활용: 유저 정보 검색기
-<img width="1043" alt="스크린샷 2023-03-04 오후 1 16 45" src="https://user-images.githubusercontent.com/100204926/222875255-a5a431cf-8d97-4f43-bfd8-2d323a88fe99.png">피파온라인 공식 api 유저정보 부분을 활용 
+디스코드 챗봇 + fifa4 online 공식 api 활용: 유저 정보 검색기</br>
+피파온라인 공식 api 유저정보 부분을 활용 
+<img width="1043" alt="스크린샷 2023-03-04 오후 1 16 45" src="https://user-images.githubusercontent.com/100204926/222875255-a5a431cf-8d97-4f43-bfd8-2d323a88fe99.png">
 
 ## 기능정보
 유저의 최고티어</br>
