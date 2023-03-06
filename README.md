@@ -2,7 +2,7 @@
 
 </br> 2023-03-03 챗봇 명령어: !최고티어 (nickname)
 </br> 2023-03-04 챗봇 명령어: !거래 (nickname) (buy or sell)
-</br> 2023-03-06  도커 실행파일 추가
+</br> 2023-03-06  <h2>도커 실행파일 추가</h2>
 
 ## 소개
 디스코드 챗봇 + fifa4 online 공식 api 활용: 유저 정보 검색기
@@ -38,6 +38,12 @@ spid 모듈 반환정보</br>
       </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"main.py" 실행
       </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;디스코드내에 챗봇 초대 필수
 
+
+## 도커 사용
+폴더로 이동 </br>
+도커 이미지화: docker build -t 이미지이름 .(현재파일)</br>
+도커 실행 : docker run -it 이미지이름
+
 ## 실행결과
 </br><img width="191" alt="스크린샷 2023-03-04 오전 2 05 18" src="https://user-images.githubusercontent.com/100204926/222782689-525cb383-9c4a-427c-8af3-8da881a85938.png">
 </br> 다음과 같은 실행결과가 나오면 embed.py가 정상적으로 실행되었다는 의미
@@ -47,10 +53,6 @@ spid 모듈 반환정보</br>
 </br> 디스코드 창에서 접두사 !을 넣어 "!최고티어" + 피파유저네임 입력하면 정상적으로 동작한다
 
 
-## 도커 사용
-폴더로 이동 </br>
-도커 이미지화: docker build -t 이미지이름 .(현재파일)</br>
-도커 실행 : docker run -it 이미지이름
 
 ### 부족한점
 거래내용에서 썸네일로 선수이미지 제공 기능을 구현하고싶었으나 실력부족으로 코드가 복잡해져서 포기
