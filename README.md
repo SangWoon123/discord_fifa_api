@@ -1,7 +1,7 @@
 # discord_fifa_api
 
 ## 사용 기술
- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-2496ED?style=flat&logo=AWS&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AWS&logoColor=white"/> 
 
 
 </br> 2023-03-03 챗봇 명령어: !최고티어 (nickname)
@@ -59,9 +59,13 @@ spid 모듈 반환정보</br>
 ## AWS 배포
 과정:
 
+<img width="1361" alt="스크린샷 2023-03-06 오후 7 36 12" src="https://user-images.githubusercontent.com/100204926/223087862-f3752362-367c-474b-98f1-02ae9362b37e.png">
+
+
 <img width="1361" alt="스크린샷 2023-03-06 오후 7 36 12" src="https://user-images.githubusercontent.com/100204926/223086685-0285da77-f9d0-49fb-ad8d-8d8c2f9769c9.png">
 
 </br>결과:
+</br>
 <img width="300" alt="스크린샷 2023-03-06 오후 7 34 47" src="https://user-images.githubusercontent.com/100204926/223086656-2eb4e30a-cf21-4e1a-9304-7af93a8533f8.png">
 
 
