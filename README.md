@@ -2,7 +2,7 @@
 
 ## 사용 기술
  <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-#2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
 </br> 2023-03-03 챗봇 명령어: !최고티어 (nickname)
 </br> 2023-03-04 챗봇 명령어: !거래 (nickname) (buy or sell)
