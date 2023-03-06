@@ -59,7 +59,8 @@ spid 모듈 반환정보</br>
 ## AWS 배포
 과정:
 
-<img width="753" alt="스크린샷 2023-03-06 오후 7 41 45" src="https://user-images.githubusercontent.com/100204926/223088068-bfcaa9a5-093e-497c-98ec-93d6cb1f5e7d.png">
+<img width="1361" alt="스크린샷 2023-03-06 오후 7 36 12" src="https://user-images.githubusercontent.com/100204926/223090338-26c510b2-7102-4442-8797-4a853f386f1a.png">
+
 
 
 
