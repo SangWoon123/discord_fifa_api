@@ -1,8 +1,8 @@
 # discord_fifa_api
 
-</br> 2023-03-03 </br>챗봇 명령어: !최고티어 (nickname)
-</br> 2023-03-04 </br>챗봇 명령어: !거래 (nickname) (buy or sell)
-</br> 2023-03-06 </br> 도커 실행파일 추가
+</br> 2023-03-03 챗봇 명령어: !최고티어 (nickname)
+</br> 2023-03-04 챗봇 명령어: !거래 (nickname) (buy or sell)
+</br> 2023-03-06  도커 실행파일 추가
 
 ## 소개
 디스코드 챗봇 + fifa4 online 공식 api 활용: 유저 정보 검색기
