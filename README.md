@@ -46,8 +46,8 @@ spid 모듈 반환정보</br>
 
 ## 도커 사용
 폴더로 이동 </br>
-도커 이미지화: docker build -t 이미지이름 .(현재파일)</br>
-도커 실행 : docker run -it 이미지이름
+도커 이미지화: ``` docker build -t 이미지이름 .(현재파일) ```</br>
+도커 실행 : ``` docker run -it 이미지이름 ```
 
 ## 실행결과
 </br><img width="191" alt="스크린샷 2023-03-04 오전 2 05 18" src="https://user-images.githubusercontent.com/100204926/222782689-525cb383-9c4a-427c-8af3-8da881a85938.png">
