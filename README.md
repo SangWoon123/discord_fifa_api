@@ -1,12 +1,12 @@
 # discord_fifa_api
 
 ## 사용 기술
- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-2496ED?style=flat&logo=AWS&logoColor=white"/> 
 
 
 </br> 2023-03-03 챗봇 명령어: !최고티어 (nickname)
 </br> 2023-03-04 챗봇 명령어: !거래 (nickname) (buy or sell)
-</br> 2023-03-06 도커 사용 이해와 도커 실행 파일 추가
+</br> 2023-03-06 도커 사용 이해와 도커 실행 파일 추가 / AWS 배포
 
 ## 소개
 디스코드 챗봇 + fifa4 online 공식 api 활용: 유저 정보 검색기
@@ -56,6 +56,13 @@ spid 모듈 반환정보</br>
 </br><img width="300" alt="스크린샷 2023-03-04 오후 1 11 42" src="https://user-images.githubusercontent.com/100204926/222875128-a1f42226-e872-443f-a105-7ac47bc3451e.png"> <img width="497" alt="222787259-37a6abc7-5102-4ab6-85da-be1ab59771ed" src="https://user-images.githubusercontent.com/100204926/223003642-3552ce52-ff58-451e-a985-ced1b3745ddd.png">
 </br> 디스코드 창에서 접두사 !을 넣어 "!최고티어" + 피파유저네임 입력하면 정상적으로 동작한다
 
+## AWS 배포
+과정:
+
+<img width="1361" alt="스크린샷 2023-03-06 오후 7 36 12" src="https://user-images.githubusercontent.com/100204926/223086685-0285da77-f9d0-49fb-ad8d-8d8c2f9769c9.png">
+
+</br>결과:
+<img width="300" alt="스크린샷 2023-03-06 오후 7 34 47" src="https://user-images.githubusercontent.com/100204926/223086656-2eb4e30a-cf21-4e1a-9304-7af93a8533f8.png">
 
 
 ### 부족한점
