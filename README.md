@@ -40,7 +40,7 @@ spid 모듈 반환정보</br>
 ## 사용법
 피파 개발자센터에서 발급받은 키를 "fifaapi.txt" 파일을 생성해 저장
       </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;디스코드 개발자센터에사 발급받은 키를 "token.txt" 파일을 생성후 저장 
-      </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"main.py" 실행
+      </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;``` main.py ``` 실행
       </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;디스코드내에 챗봇 초대 필수
 
 
