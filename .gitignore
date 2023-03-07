@@ -2,3 +2,4 @@
 discord/token.txt
 fifaapi.txt
 .DS_Store
+*.pyc
